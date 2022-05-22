@@ -56,7 +56,3 @@ app.post("/",function (req,res) {
 app.listen(process.env.PORT,function () {  
     console.log("Server Started")
 })
-
-// app id: c6971e8426eaa86ef7aebdb3daaf74e7-us14
-
-// list id : 900b8f76b1
